@@ -1,3 +1,9 @@
 <resources>
+    <!-- Application Specific -->
     <string name="app_name">Tasker</string>
+    <string name="initial_alert">CLICK + FOR NEW LIST</string>
+    <string name="second_alert">ADD NEW TASK ></string>
+
+    <!-- To-Do tasks overview -->
+    <string name="empty_todo_list">No tasks available</string>
 </resources>
